@@ -1,6 +1,6 @@
 # Amazona ECommerce Website
 
-![amazona](/template/images/amazona.jpg)
+![amazona](/template/images/amazonas.jpg)
 
 
 ## Run Locally
