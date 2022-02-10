@@ -8,7 +8,7 @@
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/amazona.git
+$ git clone https://github.com/bouba-jaz/shopping-website.git
 $ cd amazona
 ```
 
