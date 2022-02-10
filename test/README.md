@@ -1,6 +1,6 @@
 # Amazona ECommerce Website
 
-![amazona](test/template/images/amazona.jpg)
+![amazona](https://github.com/bouba-jaz/shopping-website/blob/43ae05c37d76f7b35fa163bf44096208bf477acc/test/template/images/amazona.jpg)
 
 
 ## Run Locally
